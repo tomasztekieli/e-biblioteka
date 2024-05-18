@@ -1,5 +1,8 @@
 Uwaga! Do aplikacji dołączony jest osobny projekt api wykonany w Django REST framework- dostępny na stronie: https://github.com/tomasztekieli/api-projekt-e-biblioteka
 
+Link do figma:
+https://www.figma.com/file/xhdF6BmOtbqrHKLoddidxD/e-biblioteka?type=design&node-id=1%3A2&mode=design&t=g92c21BZRFOWLNFm-1
+
 E-biblioteka - aplikacja obsługująca konto czytelnika
 
 Apliakcja umożliwia przeglądanie zasobów e-biblioteki, wypożycznie oraz przegląd już wypozyczonych książek.
